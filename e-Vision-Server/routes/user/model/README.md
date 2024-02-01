@@ -13,7 +13,3 @@ Represents the user schema.
 - `isAdmin` (boolean): Indicates if the user is an admin.
 - `createdAt` (Date): The timestamp when the user was created.
 - `updatedAt` (Date): The timestamp when the user was last updated.
-
-## Usage
-
-To use the user schema, import the `User` model from the mongoose package.
