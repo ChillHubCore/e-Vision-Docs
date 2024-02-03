@@ -14,6 +14,8 @@ This endpoint is used to log in a user. It returns an auto-generated hash token 
 **Response:**
 
 - `name`: The name of the user.
+- `isAdmin`: Admin Status of the user.
+  `isCreator`: Creator Status of the user.
 - `token`: The auto-generated hash token.
 
 ### POST /signup
@@ -24,12 +26,15 @@ This endpoint is used to sign up a new user. The password is stored in a hashed 
 
 - `name`: The name of the user.
 - `email`: The email of the user.
+- `username`: The username of the user.
 - `phone`: The phone number of the user.
 - `password`: The password of the user.
 
 **Response:**
 
 - `name`: The name of the user.
+- `isAdmin`: Admin Status of the user.
+  `isCreator`: Creator Status of the user.
 - `token`: The auto-generated hash token.
 
 ### DELETE /:id
