@@ -58,5 +58,3 @@ This document outlines the key features and functionalities for an effective e-c
 - **Scalability:** Choose a solution that can scale with your business growth to accommodate future needs.
 
 This roadmap provides a foundation for building your effective e-commerce CRM panel. Remember to prioritize features based on your specific business needs and resources.
-
-**Note:** This content is written in markdown format and can be directly copied and pasted into a .md file for further editing and customization.
