@@ -10,6 +10,9 @@ This document outlines the key features and functionalities for an effective e-c
 - **Segmentation & filtering:** Segment customers based on purchase behavior, demographics, interests for targeted marketing and communication.
 - **Search & filtering:** Easily search and filter customers by various criteria for efficient management.
 - **Customer notes & activities:** Add notes about customer interactions and track activities related to each customer.
+- **Customer communication:** Manage customer communication through the CRM, including email, SMS, and other channels.
+- **Customer support:** Provide customer support and issue resolution through the CRM.
+- **Customer Files:** Store and manage customer-related files, such as invoices, contracts, and other documents.
 
 **2. Sales & Orders Management**
 
